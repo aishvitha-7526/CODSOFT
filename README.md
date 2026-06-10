@@ -62,7 +62,3 @@ CODSOFT
 ## Internship
 
 CodSoft Web Development Internship
-
-## GitHub Repository
-
-This repository contains all Level 1 tasks completed during the internship.
